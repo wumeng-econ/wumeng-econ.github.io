@@ -1,8 +1,6 @@
 ---
 permalink: /
 title: ""
-header: 
-  image: "../images/bueast.jpg"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
