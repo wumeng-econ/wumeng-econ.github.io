@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: "../images/bueast.jpg"
+  image: "../images/bueast1.jpg"
 ---
 
 I am a PhD candidate in Economics at Boston University.  My research field is applied economics, with special interets in development economics and political economics.  
