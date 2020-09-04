@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+header:
+  image: "/images/charlesriver-night3.jpg"
 ---
 
 {% if author.googlescholar %}
