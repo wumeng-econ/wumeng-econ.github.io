@@ -2,7 +2,7 @@
 title: "Teaching Fellow"
 collection: Teaching Fellow
 type: "Undergraduate Introductory Economics"
-permalink: /teaching/2014-spring-teaching-1
+permalink: ""
 venue: "Boston University, Department of Economics"
 date: 2016-09-01
 ---
