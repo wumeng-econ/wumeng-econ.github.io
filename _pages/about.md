@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: ""
+header: 
+  image: "/images/bueast.jpg"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header: 
-  image: "/images/bueast.jpg"
 ---
 
 I am a PhD candidate in Economics at Boston University.  My research field is applied economics, with special interets in development economics and political economics.  
