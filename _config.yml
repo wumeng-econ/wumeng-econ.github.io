@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Meng Wu"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Meng Wu"
 description              : &description "Ph.D. candidate, Department of Economics, Boston University"
