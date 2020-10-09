@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## [Readers vs Owner? What drives media attention of China during Sino-US trade conflict](http://wumengecon.github.io/files/paper1.pdf)
+## [Readers vs Owner? What drives media attention of China during Sino-US trade conflict](http://wumengecon.github.io/files/jmp.pdf)
 
 ### Abstract: 
 
