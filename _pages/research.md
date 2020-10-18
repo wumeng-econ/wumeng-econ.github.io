@@ -6,13 +6,13 @@ author_profile: true
 ---
 # Working Papers
 
-## [Readers vs Owner? What Drives Media Slant on China during the Sino-US Trade Conflict](http://wumengecon.github.io/files/jmp.pdf)(Job Market Paper)
+## [Readers vs Owner? What Drives Media Slant on China during the Sino-U.S. Trade Conflict](http://wumengecon.github.io/files/jmp.pdf)(Job Market Paper)
 
 ### Abstract: 
 
 In the past two years, the Sino-US relation has been through a volatile period due to trade conflicts. At the same time, there is extensive heterogeneity in the coverage on China by the U.S. media, both in terms of intensity and topics. What drives media attention on China as the U.S.’s diplomatic relation with her changes? In this paper, I use President Donald Trump's tweets as indicators of diplomatic event, and I use the coverage by local daily newspapers to separate the effects from the demand (the readers’) side and the supply (the owner’s) side. I find that on average, a local newspaper’s coverage on human rights and ideological issues of China responded to the President’s tweets, and the response is driven by its owner’s political leaning. The more democratic-leaning (republican-leaning) its owner is, the more a paper covered human rights and ideological issues when Sino-US relationship got better (worse). On the other hand, such pattern barely true for the coverage on the trade conflict itself. In contrast, the political preference of newspapers’ readers has little consistent effect. My study sheds light on the potential concerns of media independence in the United States when it comes to coverage on foreign countries.
 
-## [Checks and Balances: Media Criticism in China (polished version available soon)]
+## Checks and Balances: Media Criticism in China (polished version available soon)
 
 ### Abstract:
 
@@ -20,12 +20,12 @@ I study how political competition among provincial officials affects media criti
 
 # Work in Progress
 
-## [State Ownership and R&D Efficiency: Evidence from Chinese Public Firms (with Yang Ming)]
+State Ownership and R&D Efficiency: Evidence from Chinese Public Firms (with Yang Ming)
 
-## [The Value of International Allies (with Giovanna Marcolongo)]
+The Value of International Allies (with Giovanna Marcolongo)]
 
-## [Image of Countries: A Cross-National Comparison of Media Coverage during the Covid-19 Pandemic (with Taosong Deng)]
+Image of Countries: A Cross-National Comparison of Media Coverage during the Covid-19 Pandemic (with Taosong Deng)
 
-## [Spillover Effects of Anti-Corruption Campaign in China (with Xiangyu Feng)]
+Spillover Effects of Anti-Corruption Campaign in China (with Xiangyu Feng)
 
   
