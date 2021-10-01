@@ -7,6 +7,7 @@ author_profile: true
 ## Working Papers
 
 ### Readers, Owners and Media Slant: Evidence from the Sino-US Trade Dispute
+[Download paper here](http://wumengecon.github.io/files/paper1.pdf)
 
 ### Checks and Balances: Media Criticism in China (polished version available soon)
 
