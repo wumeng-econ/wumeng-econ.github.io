@@ -6,13 +6,13 @@ author_profile: true
 ---
 ## Working Papers
 
-### [Readers, Owners and Media Slant: Evidence from the Sino-US Trade Dispute](http://wumengecon.github.io/files/paper1.pdf)
+### [Readers, Owners and Media Slant: Evidence from the Sino-US Trade Dispute](http://wumengecon.github.io/files/jmp.pdf)
 
 ### Checks and Balances: Media Criticism in China (polished version available soon)
 
-### State Ownership and R&D Efficiency: Evidence from Chinese Public Firms (with Yang Ming)
+### [State Ownership and R&D Efficiency: Evidence from Chinese Public Firms (with Yang Ming)](http://wumengecon.github.io/files/Yang_Wu_2021.pdf)
 
-### Sanction Busting Through Minerals Trading (with Giovanna Marcolongo)
+### Sanction Busting Through Minerals Trading (with Giovanna Marcolongo, polished version available soon)
 
 ## Work in Progress
 
