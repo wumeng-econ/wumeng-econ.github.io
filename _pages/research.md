@@ -6,19 +6,17 @@ author_profile: true
 ---
 ## Working Papers
 
-### Readers vs Owner? What Drives Media Slant on China during the Sino-U.S. Trade Conflict
+### Readers, Owners and Media Slant: Evidence from the Sino-US Trade Dispute
 
 ### Checks and Balances: Media Criticism in China (polished version available soon)
 
+### State Ownership and R&D Efficiency: Evidence from Chinese Public Firms (with Yang Ming)
+
+### Sanction Busting Through Minerals Trading (with Giovanna Marcolongo)
 
 ## Work in Progress
 
-State Ownership and R&D Efficiency: Evidence from Chinese Public Firms (with Yang Ming)
+Perish in Comfort: Growth Impact of an Estate Boom (with Xiangyu Feng and Zhiyuan Chen)
 
-The Value of International Allies (with Giovanna Marcolongo)
-
-Image of Countries: A Cross-National Comparison of Media Coverage during the Covid-19 Pandemic (with Taosong Deng)
-
-Spillover Effects of Anti-Corruption Campaign in China (with Xiangyu Feng)
 
   
