@@ -10,6 +10,6 @@ header:
   image: "../images/charlesriver-evening.jpg"
 ---
 
-I am a PhD candidate in Economics at Boston University.  My research field is Applied Economics, with special interests in Development Economics and Political Economy.  
+I am a PhD candidate in Economics at Boston University.  My research field is Applied Economics, with special interests in Political Economy and Development Economics.  
 
 I will graduate in May 2022, and I will be available for interviews at the upcoming 2022 ASSA Annual Meetings.
