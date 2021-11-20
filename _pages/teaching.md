@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Teaching Assistant/Online Course Designer 
+
+Introductory Macroeconomics, Department of Economics, Boston University, Spring 2021
 
 ## Teaching Fellow/Lab Instructor
 
