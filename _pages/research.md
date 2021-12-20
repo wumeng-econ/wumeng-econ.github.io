@@ -20,4 +20,6 @@ Perish in Comfort: Growth Impact of an Estate Boom (with Xiangyu Feng and Zhiyua
 
 Sanction Busting Through Minerals Trading (with Raymond Fisman and Giovanna Marcolongo, polished version available soon)
 
-  
+Market Access and Cross-Country Sentiment: Evidence from the Russo-Ukrainian Conflict
+
+Coronavirus catastrophe: Who is to blame? Evidence from the U.S. local media outlets
