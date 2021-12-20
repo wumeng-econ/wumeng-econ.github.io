@@ -18,6 +18,6 @@ author_profile: true
 
 Perish in Comfort: Growth Impact of an Estate Boom (with Xiangyu Feng and Zhiyuan Chen)
 
-Sanction Busting Through Minerals Trading (with Giovanna Marcolongo, polished version available soon)
+Sanction Busting Through Minerals Trading (with Raymond Fisman and Giovanna Marcolongo, polished version available soon)
 
   
